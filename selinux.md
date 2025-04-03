@@ -1,16 +1,5 @@
 ## TP-SELinux
 
-### Conf firewalld:
-
-![Configuration firewalld](https://i.imgur.com/MO4Yl0w.png)
-
-### Conf sshd
-
-![Configuration sshd 1](https://i.imgur.com/GNjw6yE.png)
-![Configuration sshd 2](https://i.imgur.com/WKVcRyJ.png)
-![Configuration sshd 3](https://i.imgur.com/1lcwWRp.png)
-
-
 ### SELinux dispose de différents modes, quels sont-ils ? Est a quoi sert chaque mode ?
 
 ```bash
